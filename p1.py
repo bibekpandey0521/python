@@ -1,0 +1,1 @@
+print('''Hello everyone,This is course by \"Digital Pathsala" ''')
